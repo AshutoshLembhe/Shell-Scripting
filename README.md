@@ -3,6 +3,7 @@ Shell Scripting on Ubuntu Terminal
 
 Some Basic commands for before starting scripting.
 All these commands need to be typed in ubuntu terminal window.
+0) ./filename.sh - This command is written in terminal to execute your shell file.
 
 1)cat /etc/shell - Tells types of bash you have on the system
 2)which bash - location of the bash file where it will be stored
